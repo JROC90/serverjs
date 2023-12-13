@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+/enviroment/credentials.json
+
+# Build artifacts
+/build
+/dist
+
+# Logs
+logs/
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled binary addons
+/build/Release
+
+# Cache directories
+.npm/
